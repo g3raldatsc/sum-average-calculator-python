@@ -45,3 +45,5 @@ python sum_average_calculator.py
 ---
 
 *Author:* [@g3raldatsc](https://github.com/g3raldatsc)
+
+![Anime Gif](https://media.tenor.com/062Vi0AsY1cAAAAm/anime-shupogaki.webp)
