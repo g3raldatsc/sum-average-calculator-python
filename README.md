@@ -46,5 +46,5 @@ python sum_average_calculator.py
 
 *Author:* [@g3raldatsc](https://github.com/g3raldatsc)
 <p align="center">
-  <img src="https://media.tenor.com/062Vi0AsY1cAAAAm/anime-shupogaki.webp" width="100" alt="Anime Gif">
+  <img src="https://media.tenor.com/062Vi0AsY1cAAAAm/anime-shupogaki.webp" width="200" alt="Anime Gif">
 </p>
